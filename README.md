@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliyassine1
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in machine learning, data science, and deep learning.
 - 🌱 I’m currently completing my master's degree in data science at University of Toronto 
 - 📫 How to reach me : ali.yassine@mail.utoronto.ca
 
